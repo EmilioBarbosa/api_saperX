@@ -14,4 +14,6 @@ Configurar o arquivo .env com as credenciais do seu banco de dados
 ## Instalando dependências
 ```bash
 composer install
+ou
+composer update -w
 ```
