@@ -15,5 +15,10 @@ Configurar o arquivo .env com as credenciais do seu banco de dados
 ```bash
 composer install
 ou
-composer update -w
+composer update 
+```
+
+## Iniciando servido
+```bash
+php artisan serve
 ```
