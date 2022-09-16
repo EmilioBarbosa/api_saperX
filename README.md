@@ -18,6 +18,10 @@ ou
 composer update 
 ```
 
+## Migrations
+```bash
+php artisan migrate 
+```
 ## Iniciando servidor
 ```bash
 php artisan serve
