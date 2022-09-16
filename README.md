@@ -3,7 +3,6 @@
 ```bash
 Composer
 PHP >= 8
-
 ```
 
 ## Variáveis de ambiente
