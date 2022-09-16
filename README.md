@@ -18,7 +18,7 @@ ou
 composer update 
 ```
 
-## Iniciando servido
+## Iniciando servidor
 ```bash
 php artisan serve
 ```
