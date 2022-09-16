@@ -2,6 +2,6 @@
 
 ```bash
 Composer
-PHP
+PHP >= 8
 
 ```
